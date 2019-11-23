@@ -1,2 +1,2 @@
-import './js/common.js';
-import './assets/sass/main.sass';
+import "./js/common.js";
+import "./assets/sass/main.sass";
